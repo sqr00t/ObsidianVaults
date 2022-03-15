@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "20dc906aa89c87ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c5b5b0a67b1fa7c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "389f5300d0f45827",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bf7a4ed595a99a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a4dfdacd13182fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dac06e7862eff90a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfa56a399ae71667",
+    "type": "split",
+    "children": [
+      {
+        "id": "951d8f8c63b32ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3572ee79c1af949d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6c5b5b0a67b1fa7c",
+  "lastOpenFiles": [
+    "Julia for Data Science/Julia for Data Science notes.md",
+    "Julia for Data Science/Chapter 1, The Groundwork - Julia's Environment.md",
+    "Julia for Data Science/Multiple Dispatch (Function overloading).md",
+    "Julia for Data Science/Chapter 2, Data Munging.md"
+  ]
+}

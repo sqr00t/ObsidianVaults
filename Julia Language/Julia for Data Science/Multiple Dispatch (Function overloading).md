@@ -1,0 +1,3 @@
+ - :: Type-assertion operator
+ - all values default type is of Abstract type "Any"
+ - Julia automatically matches implementation of method(s) of data type declared at function definition, with type given in function arguments at function call
